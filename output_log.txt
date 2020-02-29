@@ -1,0 +1,1429 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumdx.dll 26.21.14.4219]
+    Renderer: NVIDIA GeForce GTX 1070
+    Vendor:   NVIDIA
+    VRAM:     8088 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NAudio.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NAudio.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NVorbis.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\NVorbis.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\TextMeshPro-1.0.55.56.0b11.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Xml.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.054100 ms
+RimWorld 1.0.2551 rev78
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Interaction Bubbles from Jaxe "1.0.0" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Miniaturisation from hwfanatic "1.0.2059" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod More Planning from Alan Dariva "1.0.0" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Progress Renderer from Lanilor "1.0.2096" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod RT Fuse from Ratys "1.0.2059" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Smart Speed from Sarg "1.0.2059" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Toggle Harvest from Jaxe "1.0.0" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod While You're Up [1.0] from kevlou "1.0.2059" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Interaction Bubbles from Jaxe "1.0.0" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Miniaturisation from hwfanatic "1.0.2059" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod More Planning from Alan Dariva "1.0.0" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Progress Renderer from Lanilor "1.0.2096" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod RT Fuse from Ratys "1.0.2059" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Smart Speed from Sarg "1.0.2059" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod Toggle Harvest from Jaxe "1.0.0" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<targetVersion> in mod About.xml is deprecated! Use <supportedVersions> tag instead. (example: <supportedVersions><li>1.0</li></supportedVersions>)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Malformed (correct format is Major.Minor) version string on mod While You're Up [1.0] from kevlou "1.0.2059" - parsed as "1.0"
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000189DA950 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000189DA950.dll
+Non platform assembly: data-00000000189FB0C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000189FB0C0.dll
+Non platform assembly: data-0000000018A3E780 (this message is harmless)
+Non platform assembly: data-0000000018A3E780 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018A3E780.dll
+Non platform assembly: data-0000000018A4A2B0 (this message is harmless)
+Non platform assembly: data-0000000018A47970 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018A47970.dll
+Non platform assembly: data-0000000018A4AE10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018A4AE10.dll
+Non platform assembly: data-0000000018A53A70 (this message is harmless)
+Non platform assembly: data-0000000018A77CA0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018A77CA0.dll
+Non platform assembly: data-0000000018A7C640 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018A7C640.dll
+Non platform assembly: data-0000000018A9BD50 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018A9BD50.dll
+Non platform assembly: data-0000000018B3CC70 (this message is harmless)
+Non platform assembly: data-0000000018B2C470 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018B2C470.dll
+Non platform assembly: data-0000000018B3CC70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018B3CC70.dll
+Non platform assembly: data-0000000018B52A90 (this message is harmless)
+Non platform assembly: data-0000000018B47550 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018B47550.dll
+Non platform assembly: data-0000000018B60180 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018B60180.dll
+Non platform assembly: data-0000000018B815B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018B815B0.dll
+Non platform assembly: data-0000000018BA2600 (this message is harmless)
+Non platform assembly: data-0000000018BA2600 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018BA2600.dll
+Non platform assembly: data-0000000018C04010 (this message is harmless)
+Non platform assembly: data-0000000018C04010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018C04010.dll
+Non platform assembly: data-0000000018C5A010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018C5A010.dll
+Non platform assembly: data-0000000018C5D020 (this message is harmless)
+Non platform assembly: data-0000000018BACE10 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018BACE10.dll
+Non platform assembly: data-0000000018BB5E20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018BB5E20.dll
+Non platform assembly: data-0000000018BB8A30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018BB8A30.dll
+Non platform assembly: data-0000000018C65030 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018C65030.dll
+Non platform assembly: data-0000000018C72040 (this message is harmless)
+Non platform assembly: data-0000000018C72040 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018C72040.dll
+Non platform assembly: data-0000000018CB6340 (this message is harmless)
+Non platform assembly: data-0000000018CB6340 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018CB6340.dll
+Non platform assembly: data-0000000018CD2B70 (this message is harmless)
+Non platform assembly: data-0000000018CD2B70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018CD2B70.dll
+Non platform assembly: data-0000000018D42010 (this message is harmless)
+Non platform assembly: data-0000000018D42010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018D42010.dll
+Non platform assembly: data-0000000018D4C630 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018D4C630.dll
+Non platform assembly: data-0000000018D62A40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018D62A40.dll
+Non platform assembly: data-0000000018E21010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018E21010.dll
+Non platform assembly: data-0000000018E2DE20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018E2DE20.dll
+Non platform assembly: data-0000000018E60A60 (this message is harmless)
+Non platform assembly: data-0000000018E60A60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018E60A60.dll
+Non platform assembly: data-0000000018E64080 (this message is harmless)
+Non platform assembly: data-0000000018E64080 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018E64080.dll
+Non platform assembly: data-0000000018E77490 (this message is harmless)
+Non platform assembly: data-0000000018E77490 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018E77490.dll
+Non platform assembly: data-0000000018E8D010 (this message is harmless)
+Non platform assembly: data-0000000018E8D010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018E8D010.dll
+Non platform assembly: data-0000000018EAC140 (this message is harmless)
+Non platform assembly: data-0000000018EB01B0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018EB01B0.dll
+Non platform assembly: data-0000000018EEE010 (this message is harmless)
+Non platform assembly: data-0000000018EEE010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018EEE010.dll
+Non platform assembly: data-0000000018EF6220 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018EF6220.dll
+Non platform assembly: data-0000000018EF8430 (this message is harmless)
+Non platform assembly: data-0000000018EF8430 (this message is harmless)
+Non platform assembly: data-0000000018EF8430 (this message is harmless)
+Non platform assembly: data-0000000018EF8430 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018EF8430.dll
+Non platform assembly: data-0000000018F03C50 (this message is harmless)
+Non platform assembly: data-0000000018F03C50 (this message is harmless)
+Non platform assembly: data-00000000187F2590 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000187F2590.dll
+Non platform assembly: data-0000000018F03C50 (this message is harmless)
+Non platform assembly: data-0000000018F0DE70 (this message is harmless)
+Non platform assembly: data-0000000018F03C50 (this message is harmless)
+Non platform assembly: data-0000000018F03C50 (this message is harmless)
+Non platform assembly: data-0000000018F0DE70 (this message is harmless)
+Non platform assembly: data-0000000018F0DE70 (this message is harmless)
+Non platform assembly: data-0000000018F04C60 (this message is harmless)
+Non platform assembly: data-0000000018F0DE70 (this message is harmless)
+Non platform assembly: data-0000000018F0DE70 (this message is harmless)
+Non platform assembly: data-0000000018F04C60 (this message is harmless)
+Non platform assembly: data-0000000018F0DE70 (this message is harmless)
+Non platform assembly: data-0000000018F0DE70 (this message is harmless)
+Non platform assembly: data-0000000018F0DE70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F0DE70.dll
+Non platform assembly: data-0000000018F04C60 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F04C60.dll
+Non platform assembly: data-0000000018F07C70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F07C70.dll
+Non platform assembly: data-0000000018F1DE80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F1DE80.dll
+Non platform assembly: data-0000000018F22E90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F22E90.dll
+Non platform assembly: data-0000000018F37EB0 (this message is harmless)
+Non platform assembly: data-0000000018919B70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018919B70.dll
+Non platform assembly: data-0000000018F3BEC0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F3BEC0.dll
+Non platform assembly: data-0000000018F44AD0 (this message is harmless)
+Non platform assembly: data-0000000018F44AD0 (this message is harmless)
+Non platform assembly: data-0000000018F44AD0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F44AD0.dll
+Non platform assembly: data-0000000018F4C8E0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F4C8E0.dll
+Non platform assembly: data-0000000018F4F2F0 (this message is harmless)
+Non platform assembly: data-0000000018EC8270 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018EC8270.dll
+Non platform assembly: data-0000000018F4F2F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F4F2F0.dll
+Non platform assembly: data-0000000018F6C320 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F6C320.dll
+Non platform assembly: data-0000000018ECE2A0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018ECE2A0.dll
+Non platform assembly: data-0000000018F75540 (this message is harmless)
+Non platform assembly: data-0000000018F75540 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F75540.dll
+Non platform assembly: data-0000000018F7C560 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F7C560.dll
+Non platform assembly: data-0000000018F82180 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018F82180.dll
+Non platform assembly: data-0000000018FB9010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018FB9010.dll
+Non platform assembly: data-0000000018FCAE30 (this message is harmless)
+Non platform assembly: data-0000000018FCAE30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018FCAE30.dll
+Non platform assembly: data-0000000018FD4840 (this message is harmless)
+Non platform assembly: data-000000001890FB30 (this message is harmless)
+Non platform assembly: data-0000000018FD4840 (this message is harmless)
+Non platform assembly: data-000000001902C010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001902C010.dll
+Non platform assembly: data-000000001902DC20 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001902DC20.dll
+Non platform assembly: data-0000000018FD6850 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018FD6850.dll
+Non platform assembly: data-0000000018FE0E70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018FE0E70.dll
+Non platform assembly: data-000000001902F230 (this message is harmless)
+Non platform assembly: data-000000001891C380 (this message is harmless)
+Non platform assembly: data-0000000018FE3A80 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000018FE3A80.dll
+Non platform assembly: data-000000001902F230 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001902F230.dll
+Non platform assembly: data-0000000019038A40 (this message is harmless)
+Non platform assembly: data-000000001891C380 (this message is harmless)
+Non platform assembly: data-0000000019038A40 (this message is harmless)
+Non platform assembly: data-000000001890FB30 (this message is harmless)
+Non platform assembly: data-0000000019038A40 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000019038A40.dll
+Non platform assembly: data-000000001903A650 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001903A650.dll
+Non platform assembly: data-0000000019051E70 (this message is harmless)
+Non platform assembly: data-0000000019051E70 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000019051E70.dll
+ReflectionTypeLoadException getting types in assembly CommonSense: System.Reflection.ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <filename unknown>:0 
+  at Verse.ModAssemblyHandler.AssemblyIsUsable (System.Reflection.Assembly asm) [0x00000] in <filename unknown>:0 
+
+Loader exceptions:
+   => System.TypeLoadException: Could not load type 'Harmony.CodeInstruction' from assembly '0Harmony, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null'.
+   => System.TypeLoadException: Could not load type 'Harmony.CodeInstruction' from assembly '0Harmony, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null'.
+   => System.TypeLoadException: Could not load type 'Harmony.CodeInstruction' from assembly '0Harmony, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null'.
+   => System.TypeLoadException: Could not load type 'Harmony.CodeInstruction' from assembly '0Harmony, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null'.
+   => System.TypeLoadException: Could not load type 'Harmony.CodeInstruction' from assembly '0Harmony, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null'.
+   => System.TypeLoadException: Could not load type 'Harmony.CodeInstruction' from assembly '0Harmony, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null'.
+   => System.TypeLoadException: Could not load type 'Harmony.CodeInstruction' from assembly '0Harmony, Version=1.2.0.2, Culture=neutral, PublicKeyToken=null'.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000019065A90 (this message is harmless)
+Non platform assembly: data-0000000019065A90 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000019065A90.dll
+Non platform assembly: data-000000001906DEB0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001906DEB0.dll
+Non platform assembly: data-00000000190750C0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000190750C0.dll
+Non platform assembly: data-00000000190774D0 (this message is harmless)
+Non platform assembly: data-00000000190774D0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000190774D0.dll
+Non platform assembly: data-000000001907AEE0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001907AEE0.dll
+Non platform assembly: data-000000001907F0F0 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000000001907F0F0.dll
+Non platform assembly: data-0000000019087100 (this message is harmless)
+Non platform assembly: data-0000000019087100 (this message is harmless)
+Non platform assembly: data-0000000019087100 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000000019087100.dll
+Non platform assembly: data-000000001908F310 (this message is harmless)
+Non platform assembly: data-00000000190B2D30 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-00000000190B2D30.dll
+[HugsLib] version 7.0.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[HugsLib] early-initializing AllowTool
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DubsMintMenus v1.2.600
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Vanilla Factions Expanded - Medieval :: LoadingOnDemand VanillaWeaponsExpanded
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Vanilla Factions Expanded - Medieval :: LoadingOnDemand VFESecurity
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parsed 2.5 as int.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.JobDriver_UnloadMarkedItems
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Could not find a type named CommonSense.CompJoyToppedOff
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Translation data for language English has 12 errors. Generate translation report for more info.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Managed\System.Configuration.dll (this message is harmless)
+Could not execute post-long-event action. Exception: System.TypeInitializationException: An exception was thrown by the type initializer for Replace_Stuff.NewThing.NewThingReplacement ---> System.Reflection.ReflectionTypeLoadException: The classes in the module cannot be loaded.
+  at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes (bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <filename unknown>:0 
+  at Harmony.AccessTools+<>c.<TypeByName>b__1_0 (System.Reflection.Assembly x) [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable+<CreateSelectManyIterator>c__Iterator12`2[System.Reflection.Assembly,System.Type].MoveNext () [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable.First[Type] (IEnumerable`1 source, System.Func`2 predicate, Fallback fallback) [0x00000] in <filename unknown>:0 
+  at System.Linq.Enumerable.FirstOrDefault[Type] (IEnumerable`1 source, System.Func`2 predicate) [0x00000] in <filename unknown>:0 
+  at Harmony.AccessTools.TypeByName (System.String name) [0x00000] in <filename unknown>:0 
+  at Replace_Stuff.NewThing.NewThingReplacement..cctor () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at (wrapper managed-to-native) System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (intptr)
+  at System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor (RuntimeTypeHandle type) [0x00000] in <filename unknown>:0 
+  at Verse.StaticConstructorOnStartupUtility.CallAll () [0x00000] in <filename unknown>:0 
+  at Verse.PlayDataLoader.<DoPlayLoad>m__2 () [0x00000] in <filename unknown>:0 
+  at Verse.LongEventHandler.ExecuteToExecuteWhenFinished () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[HugsLib] initializing SimpleSlavery, WhileYoureUp, BetterPawnControl, Hospitality, com.github.alandariva.moreplanning
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Injecting guest beds into the following facilities: EndTable, Dresser, VitalsMonitor, Table_Wardrobe, Table_RoyalEndTable, Table_RoyalDresser, Facility_VitalsCentre, Facility_IVDrip, Table_IlluminatedEndTable, Table_IlluminatedDresser
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Created guest beds for the following beds: SleepingSpot, DoubleSleepingSpot, Bed, DoubleBed, RoyalBed, HospitalBed, Bedroll, BedrollDouble, Bed_StoneSlab, Bed_Simple, Bed_Ergonomic, Bed_DoubleErgonomic, Bed_Kingsize, Bed_OperatingTable, Bed_CryptoBed, Bed_AdvBed, Bed_AdvDoubleBed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanVisible" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanInvisible" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/ToolBoxColor" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/ToolBoxColorSelected" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/Plan" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/RemoveIcon" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanToolRemoveAll" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/ColorPickerSelect" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/ColorPickerOverlay" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/HsvSlider" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a resource "UI/PlanBase" from a different thread. All resources must be loaded in the main thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tried to get a material from a different thread.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[HugsLib][ERR] com.github.alandariva.moreplanning caused an exception during OnDefsLoaded: System.NullReferenceException: Object reference not set to an instance of an object
+  at MorePlanning.Plan.PlanColorManager.ColorChanged (Int32 numColor) [0x00000] in <filename unknown>:0 
+  at MorePlanning.Plan.PlanColorManager.Load (HugsLib.Settings.ModSettingsPack settings) [0x00000] in <filename unknown>:0 
+  at MorePlanning.MorePlanningMod.DefsLoaded () [0x00000] in <filename unknown>:0 
+  at HugsLib.HugsLibController.OnDefsLoaded () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
